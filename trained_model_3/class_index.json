@@ -1,0 +1,7 @@
+{
+  "Digital": 0,
+  "Handwritten": 1,
+  "Physical": 2,
+  "Rx Pad": 3,
+  "Stamp": 4
+}
